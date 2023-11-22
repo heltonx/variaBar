@@ -2,7 +2,7 @@
 
 #Tested at Python 3.11.2
 
-def regressiveBar(): #firt part of the funciton to declaring variables
+def regressiveBar ( ) : #firt part of the funciton to declaring variables
         import time, os
         bar = "============"
         decreasingBar = bar
