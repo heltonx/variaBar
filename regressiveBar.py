@@ -6,8 +6,8 @@ def regressiveBar ( ) : #firt part of the funciton to declaring variables
         import time, os
         bar = "============"
         decreasingBar = bar
-        eater =-1
-        os.system("cls")
+        eater = -1
+        os.system ( "cls" )
 
         def timing(): #time waiting function called during the loops
                 time.sleep(1)
