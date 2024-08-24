@@ -1,7 +1,7 @@
 # variaBar
 Little project of a bar which decreases its size along the time.
 
-The user sets the size of the bar and the timer value to descrease the bar
+The user sets the size of the bar and the timer value to descrease the bar.
 
 NEXT ADDITIONS:
 -funciton to increase the bar;
