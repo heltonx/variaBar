@@ -1,5 +1,5 @@
 # variaBar
-Really Little project of a bar which decreases its size along the time.
+Really little project of a bar which decreases its size along the time.
 
 The user sets the size of the bar and the timer value to descrease the bar.
 
